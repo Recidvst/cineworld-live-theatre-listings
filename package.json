@@ -1,0 +1,29 @@
+{
+  "name": "cineworld-live-theatre-listings",
+  "version": "1.0.0",
+  "description": "Cineworld Live Theatre Listings",
+  "main": "theatre.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Recidvst/cineworld-live-theatre-listings.git"
+  },
+  "author": "Recidvst",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Recidvst/cineworld-live-theatre-listings/issues"
+  },
+  "homepage": "https://github.com/Recidvst/cineworld-live-theatre-listings#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.5.1",
+    "gulp-uglify": "^2.1.2",
+    "gulp-util": "^3.0.8"
+  }
+}
